@@ -107,6 +107,7 @@ a:hover {
 .main__texto {
   font-size: 1.3rem;
 }
+
 .main h2{
   color:#1e90ff;
 }
@@ -223,6 +224,10 @@ a:hover {
   background-color: rgba(255, 255, 255, 0.05);
   padding: 1.5rem;
   border-radius: 8px;
+}
+.job:hover{
+  transform: scale(1.05); 
+  color:var(--secundaria);
 }
 
 /* ================= HARD SKILLS ================= */
@@ -408,4 +413,3 @@ a:hover {
     flex-direction: column;
     gap: 1rem;
   }
-  
