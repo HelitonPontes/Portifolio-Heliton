@@ -408,8 +408,10 @@ a:hover {
     flex-direction: column;
     text-align: center;
   }
-
   .navbar ul {
     flex-direction: column;
     gap: 1rem;
-  }
+   }
+   
+
+  
